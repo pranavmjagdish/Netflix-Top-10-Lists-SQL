@@ -1,6 +1,11 @@
-# Netflix-Top-10-Lists
+# Analyzing Netflix Top 10 Lists Country-Wise & Globally
 
-- Imported Netflix Top 10 Lists by Country and Globally into SQL Server
-- Conducted exploratory analysis for 58,280 instances for Country Lists
-- Used SQL concepts like Joins, Group By, Order By and Aggregation
--  
+This is an exploratory analysis on SQL which involved importing data onto SQL and conducting basic analyses.
+
+
+## Concepts Covered
+
+- SQL Joins
+- Group By,Order By
+- Aggregation
+- 
