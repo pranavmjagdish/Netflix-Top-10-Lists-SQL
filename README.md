@@ -8,4 +8,3 @@ This is an exploratory analysis on SQL which involved importing data onto SQL an
 - SQL Joins
 - Group By,Order By
 - Aggregation
-- 
