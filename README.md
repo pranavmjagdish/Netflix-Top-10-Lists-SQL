@@ -2,7 +2,6 @@
 
 This is an exploratory analysis on SQL which involved importing data onto SQL and conducting basic analyses.
 
-
 ## Concepts Covered
 
 - SQL Joins
