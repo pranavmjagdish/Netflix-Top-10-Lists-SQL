@@ -11,7 +11,7 @@ This is an exploratory analysis which involved importing two different Excel fil
 ## Data Analyzed 
 
 Top 10 Lists have been analysed for the period between 7th of April 2021 to 30th of January 2022.  
-Please visit : https://top10.netflix.com/ for data documentation
+Please visit : https://top10.netflix.com/ for more details
 
 ### CountryTop10 
 
