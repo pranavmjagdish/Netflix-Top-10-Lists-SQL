@@ -1,6 +1,6 @@
 # Analyzing Netflix Top 10 Lists Country-Wise & Globally
 
-This is an exploratory analysis which involved importing two different Excel files onto SQL and coming up with various hypotheses basd on the data.
+This is an exploratory analysis which involved importing two different Excel files onto SQL and conducting exploratory analyses based on the data.
 
 ## Concepts Covered
 
@@ -23,7 +23,7 @@ Top 10 Lists by country per week for Films and T.V. Some relevant highlights :
  
 ### GlobalTop10
 
-Top 10 Lists globally per week for Films(English), TV(English) and Films(Non-English) and T.V(Non-English)
+Top 10 Lists globally per week for Films(English), TV(English) and Films(Non-English) and T.V(Non-English). This has been aggregated based on weekly hours viewed from the CountryTop10 list.
 
 ## Hypotheses 
 
