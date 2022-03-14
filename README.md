@@ -14,11 +14,11 @@ Please visit : https://top10.netflix.com/ for data documentation
 
 ### CountryTop10 
 
-- Top 10 Lists by country per week for Films and T.V  
+Top 10 Lists by country per week for Films and T.V  
  
 ### GlobalTop10
 
-- Top 10 Lists globally per week for Films(English), TV(English) and Films(Non-English) and T.V(Non-English)
+Top 10 Lists globally per week for Films(English), TV(English) and Films(Non-English) and T.V(Non-English)
 
 ## Hypotheses 
 
